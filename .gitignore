@@ -1,0 +1,13 @@
+# 构建临时目录
+源码/temp/
+
+# 运行时错误日志与设置（本机生成，勿提交）
+*.log
+error.log
+
+# 系统/编辑器文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.user
+.vs/
